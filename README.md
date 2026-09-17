@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/terminal-header.svg" width="100%" alt="Yash Jain — MS Computer Science at USC, Machine Learning, NLP and Document AI" />
+  <img src="./assets/profile-dashboard.svg" width="100%" alt="Yash Kumar Jain — AI and software engineering profile dashboard" />
 </div>
 
 <br>
@@ -21,7 +21,7 @@
 
 ---
 
-### `$ whoami`
+## 👋 About Me
 
 I am a **Master of Science in Computer Science student at the University of Southern California**, focused on building practical **machine learning, NLP, and document-intelligence systems**.
 
@@ -31,7 +31,7 @@ I am seeking **Software Engineering, Machine Learning, and Applied AI internship
 
 ---
 
-### `$ status --currently-building`
+## 🚀 Currently Building
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ I am seeking **Software Engineering, Machine Learning, and Applied AI internship
 
 ---
 
-### `$ ls featured-projects/`
+## ✨ Featured Projects
 
 <table>
   <tr>
@@ -94,7 +94,7 @@ I am seeking **Software Engineering, Machine Learning, and Applied AI internship
 
 ---
 
-### `$ ls technical-stack/`
+## 🧰 Technical Stack
 
 <div align="center">
 
@@ -127,7 +127,7 @@ I am seeking **Software Engineering, Machine Learning, and Applied AI internship
 
 ---
 
-### `$ git activity --summary`
+## 📊 GitHub Activity
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashkumarJain&theme=github_dark" alt="Yash Jain's GitHub statistics" />
@@ -142,7 +142,7 @@ I am seeking **Software Engineering, Machine Learning, and Applied AI internship
 
 ---
 
-### `$ ./connect-with-me`
+## 🤝 Connect With Me
 
 <div align="center">
   <p>I am open to conversations about software engineering, machine learning, applied AI, and internship opportunities.</p>
@@ -157,5 +157,5 @@ I am seeking **Software Engineering, Machine Learning, and Applied AI internship
 <br>
 
 <div align="center">
-  <sub><code>yash@github:~$ building useful systems, one commit at a time.</code></sub>
+  <sub>Building useful systems, one commit at a time.</sub>
 </div>
