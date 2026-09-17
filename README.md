@@ -1,53 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashkumarJain/YashkumarJain/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashkumarJain/YashkumarJain/main/light.svg">
-  <img width="100%" alt="Yash Kumar Jain - Applied AI and Machine Learning Engineer" src="https://raw.githubusercontent.com/YashkumarJain/YashkumarJain/main/light.svg">
-</picture>
+<p align="center">
+  <img src="./assets/hero.gif" width="100%" alt="Yashkumar Jain — AI/ML Engineer building reliable LLM, RAG and Document AI systems" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashkumarjain1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B88D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061526" alt="LinkedIn" /></a>
+  <a href="mailto:yashkumar2.jain@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-16A394?style=for-the-badge&logo=gmail&logoColor=white&labelColor=061526" alt="Email" /></a>
+  <a href="./Yashkumar_Jain_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-View_PDF-1ACFA8?style=for-the-badge&logo=readme&logoColor=white&labelColor=061526" alt="Résumé" /></a>
+  <a href="https://github.com/YashkumarJain?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-168DB5?style=for-the-badge&logo=github&logoColor=white&labelColor=061526" alt="Projects" /></a>
+</p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YashkumarJain&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YashkumarJain&hide_border=true&background=F8FAFC&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=111827&sideNums=111827&dates=64748B&card_width=1180">
-    <img width="100%" alt="Yash Kumar Jain's GitHub streak" src="https://streak-stats.demolab.com?user=YashkumarJain&hide_border=true">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashkumarJain&theme=2077">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashkumarJain&theme=github">
-    <img width="49%" alt="Yash Kumar Jain's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashkumarJain&theme=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashkumarJain&theme=2077">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashkumarJain&theme=github">
-    <img width="49%" alt="Languages used across Yash Kumar Jain's repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashkumarJain&theme=github">
-  </picture>
-</div>
+<br />
 
-<br>
+<img src="./assets/about.svg" width="100%" alt="About Yashkumar Jain and his current direction" />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashkumarJain/YashkumarJain/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashkumarJain/YashkumarJain/output/github-snake.svg">
-    <img width="100%" alt="Contribution activity animation" src="https://raw.githubusercontent.com/YashkumarJain/YashkumarJain/output/github-snake.svg">
-  </picture>
-</div>
+<br />
 
-<br>
+<a href="https://github.com/YashkumarJain?tab=repositories">
+  <img src="./assets/projects.svg" width="100%" alt="Selected projects: DocMind, RoadSafe Adapt, Insurance Cost Prediction and MyDietDiary" />
+</a>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yashkumarjain1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yashkumar2.jain@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="./Yashkumar_Jain_AI_Engineer_Intern_Resume.pdf">
-    <img src="https://img.shields.io/badge/Résumé-0A101F?style=for-the-badge&logo=readme&logoColor=22D3EE&labelColor=0A101F" alt="Résumé">
-  </a>
-</div>
+<br />
 
+<img src="./assets/stack.svg" width="100%" alt="Core AI, LLM, backend and deployment toolkit" />
+
+<br />
+
+<a href="mailto:yashkumar2.jain@gmail.com">
+  <img src="./assets/footer.svg" width="100%" alt="Open to Summer 2027 AI/ML and Software Engineering internships" />
+</a>
+
+<p align="center">
+  <sub>MS Computer Science @ USC · Los Angeles, California</sub>
+</p>

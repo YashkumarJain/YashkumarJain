@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#071a2e"/><stop offset=".5" stop-color="#083443"/><stop offset="1" stop-color="#073128"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1cc8ff"/><stop offset="1" stop-color="#25ecb8"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="148" rx="26" fill="url(#bg)" stroke="#204763" stroke-width="2"/>
+<text x="500" y="57" text-anchor="middle" fill="#f4fbff" font-family="Arial, sans-serif" font-size="25" font-weight="700">Let’s build something reliable.</text>
+<text x="500" y="88" text-anchor="middle" fill="#a8c2d4" font-family="Arial, sans-serif" font-size="15">Open to Summer 2027 AI/ML and Software Engineering internships.</text>
+<path d="M345 116H655" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+</svg>

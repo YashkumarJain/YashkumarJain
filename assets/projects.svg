@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061526"/><stop offset="1" stop-color="#071f24"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1cc8ff"/><stop offset="1" stop-color="#25ecb8"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="998" height="598" rx="26" fill="url(#bg)" stroke="#204763" stroke-width="2"/>
+<text x="42" y="62" fill="#25ecb8" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">SELECTED WORK</text>
+<text x="42" y="101" fill="#f3f8ff" font-family="Arial, sans-serif" font-size="28" font-weight="700">Projects shaped around useful outcomes.</text>
+<path d="M42 126H958" stroke="url(#accent)" stroke-width="2" opacity=".65"/>
+
+<rect x="42" y="158" width="442" height="180" rx="20" fill="#0a233a" stroke="#168bad" stroke-width="1.5"/>
+<rect x="66" y="181" width="101" height="27" rx="13" fill="#0b3b50"/><text x="82" y="200" fill="#6ee7ff" font-family="Arial, sans-serif" font-size="12" font-weight="700">IN PROGRESS</text>
+<text x="66" y="245" fill="#f6fbff" font-family="Arial, sans-serif" font-size="25" font-weight="700">DocMind</text>
+<text x="66" y="276" fill="#a9c1d6" font-family="Arial, sans-serif" font-size="14">Citation-first document intelligence for grounded,</text>
+<text x="66" y="299" fill="#a9c1d6" font-family="Arial, sans-serif" font-size="14">traceable answers across complex documents.</text>
+<text x="66" y="326" fill="#3edab7" font-family="Arial, sans-serif" font-size="12" font-weight="700">LLMs · RAG · LangGraph · FastAPI · AWS</text>
+
+<rect x="516" y="158" width="442" height="180" rx="20" fill="#092c31" stroke="#159e8b" stroke-width="1.5"/>
+<rect x="540" y="181" width="95" height="27" rx="13" fill="#0b443e"/><text x="557" y="200" fill="#79f4d0" font-family="Arial, sans-serif" font-size="12" font-weight="700">RESEARCH</text>
+<text x="540" y="245" fill="#f6fffc" font-family="Arial, sans-serif" font-size="25" font-weight="700">RoadSafe Adapt</text>
+<text x="540" y="276" fill="#a5cec3" font-family="Arial, sans-serif" font-size="14">Domain-adaptive crash-risk modeling designed for</text>
+<text x="540" y="299" fill="#a5cec3" font-family="Arial, sans-serif" font-size="14">changing data distributions and reliable evaluation.</text>
+<text x="540" y="326" fill="#46dfbd" font-family="Arial, sans-serif" font-size="12" font-weight="700">DEEP LEARNING · ADAPTATION · EVALUATION</text>
+
+<rect x="42" y="368" width="442" height="174" rx="20" fill="#0a233a" stroke="#1e688d" stroke-width="1.5"/>
+<rect x="66" y="392" width="44" height="44" rx="13" fill="#0c3d57"/><path d="M78 419l8-14 7 9 5-6" fill="none" stroke="#43d7ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="126" y="413" fill="#f6fbff" font-family="Arial, sans-serif" font-size="21" font-weight="700">Insurance Cost Prediction</text>
+<text x="66" y="461" fill="#a9c1d6" font-family="Arial, sans-serif" font-size="14">End-to-end regression workflow with transparent</text>
+<text x="66" y="484" fill="#a9c1d6" font-family="Arial, sans-serif" font-size="14">feature analysis and model comparison.</text>
+<text x="66" y="520" fill="#58cce9" font-family="Arial, sans-serif" font-size="12" font-weight="700">SCIKIT-LEARN · PANDAS · MODEL EVALUATION</text>
+
+<rect x="516" y="368" width="442" height="174" rx="20" fill="#092c31" stroke="#177b72" stroke-width="1.5"/>
+<rect x="540" y="392" width="44" height="44" rx="13" fill="#0b443e"/><path d="M551 415c9-14 19-8 21-16-1 18-9 24-21 26 1-4 2-7 7-12" fill="none" stroke="#55edc2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="600" y="413" fill="#f6fffc" font-family="Arial, sans-serif" font-size="21" font-weight="700">MyDietDiary</text>
+<text x="540" y="461" fill="#a5cec3" font-family="Arial, sans-serif" font-size="14">Full-stack nutrition tracking focused on structured</text>
+<text x="540" y="484" fill="#a5cec3" font-family="Arial, sans-serif" font-size="14">logging and clear, actionable health insights.</text>
+<text x="540" y="520" fill="#46dfbd" font-family="Arial, sans-serif" font-size="12" font-weight="700">FULL STACK · DATA · PRODUCT ENGINEERING</text>
+<text x="42" y="574" fill="#6f92aa" font-family="Arial, sans-serif" font-size="12">Explore repositories → github.com/YashkumarJain</text>
+</svg>
