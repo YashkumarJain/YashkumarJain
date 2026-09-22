@@ -1,23 +1,12 @@
-<p align="center">
-  <a href="https://github.com/YashkumarJain?tab=repositories">
-    <img src="./assets/hero.gif" width="100%" alt="Hi, I’m Yash. I build AI systems people can trust." />
-  </a>
-</p>
+<!-- V3 · approved blue/green design · deploy as README.md -->
+<p><img src="./assets-v3/hero-top-v3.gif" width="100%" align="top" alt="Hi, I’m Yash. I build AI systems people can trust. Applied AI engineer · USC. Turning machine learning, language models and document intelligence into reliable products—from retrieval and evaluation to APIs and deployment." /><br><a href="https://github.com/YashkumarJain?tab=repositories"><img src="./assets-v3/hero-work-v3.png" width="21%" align="top" alt="Explore my work" /></a><a href="./Yashkumar_Jain_Resume_V3.pdf"><img src="./assets-v3/hero-resume-v3.png" width="14%" align="top" alt="View résumé" /></a><img src="./assets-v3/hero-orbit-bottom-v3.gif" width="65%" align="top" alt="" /></p>
 
-<img src="./assets/about.svg" width="100%" alt="About Yashkumar Jain and his current direction" />
+<p><img src="./assets-v3/about-v3.png" width="100%" alt="About / Current direction. Applied AI, engineered for the real world. I’m an MS Computer Science student at USC building reliable AI products with a focus on grounded retrieval, evaluation, clean APIs and systems that remain useful beyond the demo. Building now: DocMind, LLM/RAG capstone. Researching: robust ML under domain shift. Targeting: Summer 2027 AI/ML internships." /></p>
 
-<a href="https://github.com/YashkumarJain?tab=repositories">
-  <img src="./assets/featured.svg" width="100%" alt="Featured projects: DocMind and RoadSafe Adapt" />
-</a>
+<p><a href="https://github.com/YashkumarJain?tab=repositories"><img src="./assets-v3/featured-v3.png" width="100%" alt="Featured work: DocMind—multi-agent document intelligence with grounded retrieval, graph-aware context and measurable answer quality; LangGraph, RAG, FastAPI, AWS. RoadSafe Adapt—self-supervised domain adaptation research for road-scene understanding; PyTorch, Computer Vision, SSL." /></a></p>
 
-<img src="./assets/stack.svg" width="100%" alt="Core technology stack" />
+<p><img src="./assets-v3/stack-v3.png" width="100%" alt="Core stack: Python, PyTorch, TensorFlow, FastAPI, LangGraph, RAG, pgvector, Neo4j, AWS, SQL." /></p>
 
-<img src="./assets/building.svg" width="100%" alt="Building in public" />
+<p><a href="https://github.com/YashkumarJain?tab=repositories"><img src="./assets-v3/building-v3.png" width="100%" alt="Building in public. 14 repositories in the approved reference, 2 featured builds, AI focus, USC graduate study. The activity grid is illustrative, not live contribution data." /></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashkumarjain1/"><img src="./assets/linkedin.svg" height="48" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:yashkumar2.jain@gmail.com"><img src="./assets/email.svg" height="48" alt="Email" /></a>
-  &nbsp;
-  <a href="./Yashkumar_Jain_Resume.pdf"><img src="./assets/resume.svg" height="48" alt="Résumé" /></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/yashkumarjain1/"><img src="./assets-v3/linkedin-v3.png" width="17%" alt="LinkedIn" /></a> <a href="mailto:yashkumar2.jain@gmail.com"><img src="./assets-v3/email-v3.png" width="15%" alt="Email" /></a> <a href="./Yashkumar_Jain_Resume_V3.pdf"><img src="./assets-v3/resume-v3.png" width="17%" alt="Résumé" /></a></p>
