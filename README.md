@@ -9,4 +9,4 @@
 
 <p><a href="https://github.com/YashkumarJain?tab=repositories"><img src="./assets-v3/building-v3.png" width="100%" alt="Building in public. 14 repositories in the approved reference, 2 featured builds, AI focus, USC graduate study. The activity grid is illustrative, not live contribution data." /></a></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/yashkumarjain1/"><img src="./assets-v3/linkedin-v3.png" width="17%" alt="LinkedIn" /></a> <a href="mailto:yashkumar2.jain@gmail.com"><img src="./assets-v3/email-v3.png" width="15%" alt="Email" /></a> <a href="./Yashkumar_Jain_Resume_V3.pdf"><img src="./assets-v3/resume-v3.png" width="17%" alt="Résumé" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/yashkumarjain1/"><img src="./assets-v3/linkedin-v3.png" width="17%" alt="LinkedIn" /></a> <a href="mailto:yashkumar2.jain@outlook.com"><img src="./assets-v3/email-v3.png" width="15%" alt="Email" /></a> <a href="./Yashkumar_Jain_Resume_V3.pdf"><img src="./assets-v3/resume-v3.png" width="17%" alt="Résumé" /></a></p>
