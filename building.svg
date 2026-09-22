@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+  <title id="title">Building in public</title>
+  <desc id="desc">Four focus statistics and a blue-green contribution-style activity grid.</desc>
+  <defs>
+    <pattern id="gridBase" width="27" height="27" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" rx="3" fill="#14222c"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="328" rx="18" fill="#0b1118" stroke="#263541" stroke-width="2"/>
+  <text x="40" y="56" fill="#f0f7ff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Building in public</text>
+  <text x="960" y="55" text-anchor="end" fill="#8fa4b5" font-family="Arial, Helvetica, sans-serif" font-size="14">Consistent progress over decorative scores</text>
+
+  <g transform="translate(40 88)" font-family="Arial, Helvetica, sans-serif">
+    <g><rect width="126" height="90" fill="#0d1a29"/><rect width="3" height="90" fill="#2f81f7"/><text x="20" y="39" fill="#f0f7ff" font-size="28" font-weight="700">14</text><text x="20" y="67" fill="#8fa4b5" font-size="14">repositories</text></g>
+    <g transform="translate(140)"><rect width="126" height="90" fill="#0b201e"/><rect width="3" height="90" fill="#22c55e"/><text x="20" y="39" fill="#f0f7ff" font-size="28" font-weight="700">2</text><text x="20" y="67" fill="#8fa4b5" font-size="14">featured builds</text></g>
+    <g transform="translate(0 104)"><rect width="126" height="90" fill="#0d1a29"/><rect width="3" height="90" fill="#2f81f7"/><text x="20" y="39" fill="#f0f7ff" font-size="28" font-weight="700">AI</text><text x="20" y="67" fill="#8fa4b5" font-size="14">primary focus</text></g>
+    <g transform="translate(140 104)"><rect width="126" height="90" fill="#0b201e"/><rect width="3" height="90" fill="#22c55e"/><text x="20" y="39" fill="#f0f7ff" font-size="28" font-weight="700">USC</text><text x="20" y="67" fill="#8fa4b5" font-size="14">graduate study</text></g>
+  </g>
+
+  <g transform="translate(330 116)">
+    <rect width="630" height="162" fill="url(#gridBase)"/>
+    <g fill="#123b35">
+      <rect x="27" y="0" width="20" height="20" rx="3"/><rect x="108" y="0" width="20" height="20" rx="3"/><rect x="189" y="0" width="20" height="20" rx="3"/><rect x="297" y="0" width="20" height="20" rx="3"/><rect x="405" y="0" width="20" height="20" rx="3"/><rect x="540" y="0" width="20" height="20" rx="3"/>
+      <rect x="0" y="27" width="20" height="20" rx="3"/><rect x="162" y="27" width="20" height="20" rx="3"/><rect x="243" y="27" width="20" height="20" rx="3"/><rect x="378" y="27" width="20" height="20" rx="3"/><rect x="486" y="27" width="20" height="20" rx="3"/><rect x="594" y="27" width="20" height="20" rx="3"/>
+      <rect x="54" y="54" width="20" height="20" rx="3"/><rect x="216" y="54" width="20" height="20" rx="3"/><rect x="324" y="54" width="20" height="20" rx="3"/><rect x="459" y="54" width="20" height="20" rx="3"/><rect x="567" y="54" width="20" height="20" rx="3"/>
+      <rect x="81" y="81" width="20" height="20" rx="3"/><rect x="135" y="81" width="20" height="20" rx="3"/><rect x="270" y="81" width="20" height="20" rx="3"/><rect x="432" y="81" width="20" height="20" rx="3"/><rect x="513" y="81" width="20" height="20" rx="3"/>
+      <rect x="27" y="108" width="20" height="20" rx="3"/><rect x="189" y="108" width="20" height="20" rx="3"/><rect x="351" y="108" width="20" height="20" rx="3"/><rect x="486" y="108" width="20" height="20" rx="3"/><rect x="621" y="108" width="20" height="20" rx="3"/>
+      <rect x="108" y="135" width="20" height="20" rx="3"/><rect x="243" y="135" width="20" height="20" rx="3"/><rect x="405" y="135" width="20" height="20" rx="3"/><rect x="567" y="135" width="20" height="20" rx="3"/>
+    </g>
+    <g fill="#117a67">
+      <rect x="54" y="0" width="20" height="20" rx="3"/><rect x="216" y="0" width="20" height="20" rx="3"/><rect x="351" y="0" width="20" height="20" rx="3"/><rect x="486" y="0" width="20" height="20" rx="3"/>
+      <rect x="81" y="27" width="20" height="20" rx="3"/><rect x="270" y="27" width="20" height="20" rx="3"/><rect x="432" y="27" width="20" height="20" rx="3"/><rect x="567" y="27" width="20" height="20" rx="3"/>
+      <rect x="0" y="54" width="20" height="20" rx="3"/><rect x="135" y="54" width="20" height="20" rx="3"/><rect x="297" y="54" width="20" height="20" rx="3"/><rect x="405" y="54" width="20" height="20" rx="3"/><rect x="540" y="54" width="20" height="20" rx="3"/>
+      <rect x="162" y="81" width="20" height="20" rx="3"/><rect x="324" y="81" width="20" height="20" rx="3"/><rect x="459" y="81" width="20" height="20" rx="3"/><rect x="594" y="81" width="20" height="20" rx="3"/>
+      <rect x="54" y="108" width="20" height="20" rx="3"/><rect x="270" y="108" width="20" height="20" rx="3"/><rect x="378" y="108" width="20" height="20" rx="3"/><rect x="540" y="108" width="20" height="20" rx="3"/>
+    </g>
+    <g fill="#16b885">
+      <rect x="135" y="0" width="20" height="20" rx="3"/><rect x="324" y="0" width="20" height="20" rx="3"/><rect x="459" y="0" width="20" height="20" rx="3"/><rect x="594" y="0" width="20" height="20" rx="3"/>
+      <rect x="27" y="27" width="20" height="20" rx="3"/><rect x="189" y="27" width="20" height="20" rx="3"/><rect x="351" y="27" width="20" height="20" rx="3"/><rect x="513" y="27" width="20" height="20" rx="3"/>
+      <rect x="108" y="54" width="20" height="20" rx="3"/><rect x="243" y="54" width="20" height="20" rx="3"/><rect x="486" y="54" width="20" height="20" rx="3"/><rect x="621" y="54" width="20" height="20" rx="3"/>
+      <rect x="54" y="81" width="20" height="20" rx="3"/><rect x="216" y="81" width="20" height="20" rx="3"/><rect x="378" y="81" width="20" height="20" rx="3"/><rect x="540" y="81" width="20" height="20" rx="3"/>
+    </g>
+    <g fill="#35e07a">
+      <rect x="243" y="0" width="20" height="20" rx="3"/><rect x="513" y="0" width="20" height="20" rx="3"/>
+      <rect x="108" y="27" width="20" height="20" rx="3"/><rect x="297" y="27" width="20" height="20" rx="3"/><rect x="459" y="27" width="20" height="20" rx="3"/><rect x="621" y="27" width="20" height="20" rx="3"/>
+      <rect x="162" y="54" width="20" height="20" rx="3"/><rect x="351" y="54" width="20" height="20" rx="3"/><rect x="567" y="54" width="20" height="20" rx="3"/>
+      <rect x="270" y="81" width="20" height="20" rx="3"/><rect x="486" y="81" width="20" height="20" rx="3"/>
+    </g>
+  </g>
+</svg>
